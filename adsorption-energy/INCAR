@@ -1,0 +1,22 @@
+PREC = Normal
+LREAL = Auto
+ALGO = Fast
+
+LWAVE = .True.
+LCHARG = .False.
+ENCUT = 520
+EDIFF = 0.00001
+EDIFFG = -0.01
+NELM = 100
+NELMIN = 4
+
+ISYM = 0
+ISMEAR = 0
+SIGMA = 0.05
+ISPIN = 1
+
+IBRION = 2
+POTIM = 0.5
+NSW = 2000
+ISIF =1
+NCORE = 6

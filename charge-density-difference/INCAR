@@ -1,0 +1,25 @@
+PREC = Accurate
+LREAL = .FALSE.
+ALGO = Fast
+
+ISTART = 0
+ICHARG = 2
+
+LWAVE = .FALSE.
+LCHARG = .TRUE.
+
+ENCUT = 520
+EDIFF = 1E-6
+NELM = 150
+
+ISYM = 0
+ISMEAR = 0
+SIGMA = 0.05
+
+IBRION = -1
+NSW = 0
+
+NCORE = 6
+
+ISPIN = 2
+NUPDOWN = 0
